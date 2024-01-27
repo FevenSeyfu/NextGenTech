@@ -62,7 +62,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-You can find our project hosted online on http://
+You can find our project hosted online on <p><a href="https://app.netlify.com/sites/nextgen-tech/deploys/65b5372d87d0250008aa07f6">Netlify Hosted Site</p>
 
 GitHubProject Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name](https://github.com/FevenSeyfu/NextGenTech/))
 
