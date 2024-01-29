@@ -33,17 +33,16 @@ The goal encompasses a wide range of essential components that contribute to the
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Tools and Software used to build the website
+### Tools and Software Used to Build the Website
+
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![Bootstrap 5](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 5
+- ![Netlify](https://img.icons8.com/color/48/000000/netlify.png) Netlify
 
 <div align="left">
-  <img width="40" height="40" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg">
-  <a href="https://github.com/webpack/webpack">
-    <img width="40" height="40"
-      src="https://webpack.js.org/assets/icon-square-big.svg">
-        <img width="40" height="40" title="Webpack Plugin" src="http://michael-ciniawsky.github.io/postcss-load-plugins/logo.svg">
-
-  </a>
-  <div>
+  
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -52,14 +51,18 @@ The goal encompasses a wide range of essential components that contribute to the
 
 This Project has been built with contributions from the Tech Group 1
 
-<img src="https://avatars.githubusercontent.com/u/106096238?v=4" width=20px> Maryam Garba => https://www.github.com/masha-a-m  or https://www.linkedin.com/in/masha-a-m
 
-<img src="https://avatars.githubusercontent.com/u/153824359?v=4" width=20px> Nobuntu Ngwenya => https://www.linkedin.com/in/nobuntungwenya/ or https://github.com/NobuntuNgwenya
+<img src="https://avatars.githubusercontent.com/u/106096238?v=4" width=20px> Maryam Garba => [github](https://www.github.com/masha-a-m) or [Linkedin](https://www.linkedin.com/in/masha-a-m)
 
-<img src="https://avatars.githubusercontent.com/u/91325016?v=4" width =20px> Feven Sefyu => https://github.com/FevenSeyfu
+<img src="https://avatars.githubusercontent.com/u/153824359?v=4" width=20px> Nobuntu Ngwenya =>[github](https://github.com/NobuntuNgwenya) or [Linkedin](https://www.linkedin.com/in/nobuntungwenya/)
 
-Bohlale Manage https://github.com/bohlale-dot 
-Vanessa Sililo https://github.com/vsililo5/Assign3 
+<img src="https://avatars.githubusercontent.com/u/91325016?v=4" width =20px> Feven Sefyu => [github](https://github.com/FevenSeyfu) or [Linkedin](https://www.linkedin.com/in/fevenseyfu/)
+
+<img src="" width=20px> Bohlale Manage => [github](https://github.com/bohlale-dot ) or [Linkedin]()
+
+<img src="" width=20px> Vanessa Sililo => [github](https://github.com/vsililo5/Assign3) or [Linkedin])
+ 
+
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -71,17 +74,17 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-You can find our project hosted online on <p><span href="https://app.netlify.com/sites/nextgen-tech/deploys/65b5372d87d0250008aa07f6">Netlify Hosted Site</span>
-
-GitHubProject Link: (https://github.com/FevenSeyfu/NextGenTech/)
-
+You can find our project hosted online on" <br>
+- [Netlify hosted site Link](https://nextgen-tech.netlify.app/)
+- [GitHubProject Link](https://github.com/FevenSeyfu/NextGenTech/)
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Acknowledgments
-We would like to acknowledge our coaches who made this possible
-
-All this wouldn't be possible without Tech4Dev and all its supporting organizations
+- We would like to acknowledge our coaches who made this possible
+- All this wouldn't be possible without Tech4Dev and all its supporting organizations
+- Special thanks to [HTML Codex](https://htmlcodex.com/) for the free template used in this project. The template significantly contributed to the project's structure and design.If you're interested in the template, you can find it [here](https://htmlcodex.com/consultancy-website-template-free/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
