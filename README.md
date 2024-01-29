@@ -62,9 +62,10 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-You can find our project hosted online on <p><a href="https://app.netlify.com/sites/nextgen-tech/deploys/65b5372d87d0250008aa07f6">Netlify Hosted Site</p>
+You can find our project hosted online on:<br>
+- <p><a href="https://nextgen-tech.netlify.app/">Netlify Hosted Site</p>
 
-GitHubProject Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name](https://github.com/FevenSeyfu/NextGenTech/))
+- GitHubProject Link: [Project Repository](https://github.com/FevenSeyfu/NextGenTech/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +73,7 @@ GitHubProject Link: [https://github.com/your_username/repo_name](https://github.
 ## Acknowledgments
 We would like to acknowledge our coaches who made this possible
 
-All this wouldnt be possible without Tech4Dev and all its supporting organizations
+All this wouldn't be possible without Tech4Dev and all its supporting organizations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
