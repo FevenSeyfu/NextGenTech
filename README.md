@@ -52,6 +52,12 @@ The goal encompasses a wide range of essential components that contribute to the
 
 This Project has been built with contributions from the Tech Group 1
 
+<img src="https://avatars.githubusercontent.com/u/106096238?v=4" width=20px> Maryam Garba => https://www.github.com/masha-a-m  or https://www.linkedin.com/in/masha-a-m
+
+<img src="https://avatars.githubusercontent.com/u/153824359?v=4" width=20px> Nobuntu Ngwenya => https://www.linkedin.com/in/nobuntungwenya/ or https://github.com/NobuntuNgwenya
+
+<img src="https://avatars.githubusercontent.com/u/91325016?v=4" width =20px> Feven Sefyu => https://github.com/FevenSeyfu
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
