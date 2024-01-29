@@ -58,6 +58,9 @@ This Project has been built with contributions from the Tech Group 1
 
 <img src="https://avatars.githubusercontent.com/u/91325016?v=4" width =20px> Feven Sefyu => https://github.com/FevenSeyfu
 
+Bohlale Manage https://github.com/bohlale-dot 
+Vanessa Sililo https://github.com/vsililo5/Assign3 
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -68,9 +71,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-You can find our project hosted online on <p><a href="https://app.netlify.com/sites/nextgen-tech/deploys/65b5372d87d0250008aa07f6">Netlify Hosted Site</p>
+You can find our project hosted online on <p><span href="https://app.netlify.com/sites/nextgen-tech/deploys/65b5372d87d0250008aa07f6">Netlify Hosted Site</span>
 
-GitHubProject Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name](https://github.com/FevenSeyfu/NextGenTech/))
+GitHubProject Link: (https://github.com/FevenSeyfu/NextGenTech/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
