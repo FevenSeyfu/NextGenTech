@@ -39,7 +39,7 @@ The goal encompasses a wide range of essential components that contribute to the
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
 - ![Bootstrap 5](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 5
-- ![Netlify](https://img.icons8.com/color/48/000000/netlify.png) Netlify
+- [![Netlify ](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev) Netlify
 
 <div align="left">
   
